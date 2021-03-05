@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000264
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ལེགས་བཤད་གསེར་གྱི་ཐུར་མ་ཞེས་བྱ་བ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
-  sku: SHE-SHAP-19
   layers:
   - book_title
   - author
   - quotation
   - yigchung
+  id: SHE-SHAP-19
 web_metadata:
   title:
     en: The Golden Scalpel:An Excellent Discourse
