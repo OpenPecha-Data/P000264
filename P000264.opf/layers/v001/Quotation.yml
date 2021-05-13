@@ -2,63 +2,63 @@ id: d7afa1a5800c4a2e820306c26b721e3d
 annotation_type: Tsawa
 revision: '00001'
 annotations:
-- id: a5a3ab2990f3497fa920279763f183e9
-  span:
-    start: 1712
-    end: 1928
-- id: 6282325acc5c4668bd6f83a0dfd8ec08
-  span:
-    start: 2043
-    end: 2542
-- id: f9dd1f90796c45c99e5644d98144d2d9
-  span:
-    start: 2554
-    end: 2796
-- id: 523d6fd950a0498f8b1d11b7f3ae554d
-  span:
-    start: 2808
-    end: 3082
-- id: f5da8b6f467b4ee0b72c465d55f755b0
-  span:
-    start: 3085
-    end: 3084
-- id: e3eb17b8ff14417880efc8e4b4e2389a
-  span:
-    start: 4898
-    end: 4950
-- id: 7a67859b438a4f9488d261a53a66250c
-  span:
-    start: 4953
-    end: 4952
-- id: 61a7becf7999407ca03a045994e14165
-  span:
-    start: 9601
-    end: 10725
-- id: 18d3a95e34484b21ad18977508f36326
-  span:
-    start: 10736
-    end: 10983
-- id: 0dc82c57a89347698d8152bb7d9224f6
-  span:
-    start: 10995
-    end: 11426
-- id: dc2ecb3d521a43c8b5264e0f1e41e708
-  span:
-    start: 11437
-    end: 11695
-- id: 016b5ee0341144bb9f9781cf5eadf5da
-  span:
-    start: 11957
-    end: 12054
-- id: 7ace8b6418764631a87f88c78f208fdd
-  span:
-    start: 12065
-    end: 12323
-- id: 43bac4dc0fc54bdcbf979624bbf004e6
-  span:
-    start: 14148
-    end: 14211
-- id: 09f7bd9a025342a89c311d912da2c2d0
-  span:
-    start: 15244
-    end: 15412
+  a5a3ab2990f3497fa920279763f183e9:
+    span:
+      start: 1712
+      end: 1928
+  6282325acc5c4668bd6f83a0dfd8ec08:
+    span:
+      start: 2043
+      end: 2542
+  f9dd1f90796c45c99e5644d98144d2d9:
+    span:
+      start: 2554
+      end: 2796
+  523d6fd950a0498f8b1d11b7f3ae554d:
+    span:
+      start: 2808
+      end: 3082
+  f5da8b6f467b4ee0b72c465d55f755b0:
+    span:
+      start: 3085
+      end: 3084
+  e3eb17b8ff14417880efc8e4b4e2389a:
+    span:
+      start: 4898
+      end: 4950
+  7a67859b438a4f9488d261a53a66250c:
+    span:
+      start: 4953
+      end: 4952
+  61a7becf7999407ca03a045994e14165:
+    span:
+      start: 9601
+      end: 10725
+  18d3a95e34484b21ad18977508f36326:
+    span:
+      start: 10736
+      end: 10983
+  0dc82c57a89347698d8152bb7d9224f6:
+    span:
+      start: 10995
+      end: 11426
+  dc2ecb3d521a43c8b5264e0f1e41e708:
+    span:
+      start: 11437
+      end: 11695
+  016b5ee0341144bb9f9781cf5eadf5da:
+    span:
+      start: 11957
+      end: 12054
+  7ace8b6418764631a87f88c78f208fdd:
+    span:
+      start: 12065
+      end: 12323
+  43bac4dc0fc54bdcbf979624bbf004e6:
+    span:
+      start: 14148
+      end: 14211
+  09f7bd9a025342a89c311d912da2c2d0:
+    span:
+      start: 15244
+      end: 15412
